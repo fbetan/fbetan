@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Francisco Betancourt ============================================================================================================================================   * 🌍  I'm based in Austin, TX * ✉️  You can contact me at [francisco.c.betancourt@gmail.com](mailto:francisco.c.betancourt@gmail.com) * 🧠  I'm learning how to better optimize streaming data events * 🤝  I'm open to collaborating on projects
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Francisco Betancourt ============================================================================================================================================   * 🌍  I'm based in Austin, TX * ✉️  You can contact me at [francisco.c.betancourt@gmail.com](mailto:francisco.c.betancourt@gmail.com) * 🧠  I'm learning how to do everything * 🤝  I'm open to collaborating on projects
 
 ### Skills  
 
